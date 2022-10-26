@@ -1,6 +1,6 @@
 {
   "private": true,
-  "displayName": "Ajax-plugin",
+  "displayName": "homebridge-ajax-status",
   "name": "homebridge-ajax-status",
   "version": "1.0.0",
   "description": "A short description about what your plugin does.",
