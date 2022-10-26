@@ -1,5 +1,5 @@
 {
-  "pluginAlias": "ajax-plugin",
+  "pluginAlias": "homebridge-ajax-status",
   "pluginType": "platform",
   "singular": true,
   "schema": {
