@@ -1,5 +1,5 @@
 {
-  "pluginAlias": "ExampleHomebridgePlugin",
+  "pluginAlias": "ajax-plugin",
   "pluginType": "platform",
   "singular": true,
   "schema": {
